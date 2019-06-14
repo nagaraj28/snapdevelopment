@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description/>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:25:16</sys_created_on>
+        <sys_id>f62153ac2f0233004c78f3ecf699b6c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Induit service catalog</sys_name>
+        <sys_package display_value="Travelapp" source="x_366630_travelapp">f9ad3dd02f0233004c78f3ecf699b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travelapp">f9ad3dd02f0233004c78f3ecf699b60e</sys_scope>
+        <sys_update_name>sc_catalog_f62153ac2f0233004c78f3ecf699b6c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:25:16</sys_updated_on>
+        <title>Induit service catalog</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=f62153ac2f0233004c78f3ecf699b6c6"/>
+</record_update>

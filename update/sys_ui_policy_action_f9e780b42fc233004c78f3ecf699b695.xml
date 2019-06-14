@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 09:23:24</sys_created_on>
+        <sys_id>f9e780b42fc233004c78f3ecf699b695</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Travelapp" source="x_366630_travelapp">f9ad3dd02f0233004c78f3ecf699b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travelapp">f9ad3dd02f0233004c78f3ecf699b60e</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f9e780b42fc233004c78f3ecf699b695</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 09:30:23</sys_updated_on>
+        <table>x_366630_travelapp_incident_log</table>
+        <ui_policy display_value="make a short description">29a7c4342fc233004c78f3ecf699b6e6</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

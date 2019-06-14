@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="94323a182f8233004c78f3ecf699b679" sys_domain="global" table="x_366630_travelapp_incident_log" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:30:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b062ba182f8233004c78f3ecf699b617</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366630_travelapp_incident_log" name="x_366630_travelapp_incident_log" sys_domain="global" view="783811707420330078509adcc48c87a3">94323a182f8233004c78f3ecf699b679</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366630_travelapp_incident_log" sys_domain="global" view="783811707420330078509adcc48c87a3">28323a182f8233004c78f3ecf699b6d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:30:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:30:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc62ba182f8233004c78f3ecf699b617</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366630_travelapp_incident_log" name="x_366630_travelapp_incident_log" sys_domain="global" view="783811707420330078509adcc48c87a3">94323a182f8233004c78f3ecf699b679</sys_ui_form>
+            <sys_ui_section caption="user inf" display_value="user inf" name="x_366630_travelapp_incident_log" sys_domain="global" view="783811707420330078509adcc48c87a3">3c62ba182f8233004c78f3ecf699b615</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:30:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_366630_travelapp_incident_log</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:29:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94323a182f8233004c78f3ecf699b679</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366630_travelapp_incident_log</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Travelapp" source="x_366630_travelapp">f9ad3dd02f0233004c78f3ecf699b60e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travelapp">f9ad3dd02f0233004c78f3ecf699b60e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_94323a182f8233004c78f3ecf699b679</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:29:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Self Service" name="ess">783811707420330078509adcc48c87a3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

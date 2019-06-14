@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="sinduit catalogz">fe8a23202f8233004c78f3ecf699b617</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 07:15:01</sys_created_on>
+        <sys_id>95aaa3202f8233004c78f3ecf699b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sinduit catalogz.catalog_sinduit_catalogz</sys_name>
+        <sys_package display_value="Travelapp" source="x_366630_travelapp">f9ad3dd02f0233004c78f3ecf699b60e</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_sinduit_catalogz">1daaa3202f8233004c78f3ecf699b6ae</sys_portal_page>
+        <sys_scope display_value="Travelapp">f9ad3dd02f0233004c78f3ecf699b60e</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_95aaa3202f8233004c78f3ecf699b6af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 07:15:01</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

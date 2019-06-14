@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="marvel" table="x_366630_travelapp_incident_log" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marvel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_366630_travelapp_incident_log</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:42:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30672e942f4233004c78f3ecf699b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 07:42:41</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marvel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DC</label>
+            <language>en</language>
+            <name>x_366630_travelapp_incident_log</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:44:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6c7ea502f8233004c78f3ecf699b6a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 07:44:50</sys_updated_on>
+            <value>Batman</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>marvel</element>
+            <name>x_366630_travelapp_incident_log</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 07:42:41</sys_created_on>
+            <sys_id>b8672e942f4233004c78f3ecf699b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>marvel</sys_name>
+            <sys_package display_value="Travelapp" source="x_366630_travelapp">f9ad3dd02f0233004c78f3ecf699b60e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travelapp">f9ad3dd02f0233004c78f3ecf699b60e</sys_scope>
+            <sys_update_name>sys_choice_x_366630_travelapp_incident_log_marvel</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 07:42:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

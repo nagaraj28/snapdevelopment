@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Incident_log" max_length="40" name="x_366630_travelapp_incident_log" sizeclass="2" type="collection">
+        <element choice="1" label="marvel" max_length="200" name="marvel" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="DC" value="Batman"/>
+            </choice>
+        </element>
+        <element label="sid" max_length="255" name="sid" type="string_full_utf8"/>
+        <element default="test default" label="sindu" max_length="255" name="sindu" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Start date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="end_date" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="req_date" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+        <element label="affected users" max_length="32" name="u_reference_2" reference="x_366630_travelapp_incident_log" type="reference"/>
+    </element>
+</database>
